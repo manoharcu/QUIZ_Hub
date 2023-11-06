@@ -1,5 +1,5 @@
 <h1 align="center">
-  
+  <a href="https://manoharcu.github.io/quiz-app/">
     QuizApp
   </a>
 </h1>
