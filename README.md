@@ -64,8 +64,8 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-QuizApp is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+QuizApp is built and maintained by Manohar Chaudhary
 
 ## License
 
-Code released under the [MIT license](https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE).
+Code released under the [MIT license]
